@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Furlough-Planner/static/css/main.e1bc4955.chunk.css",
+    "main.js": "/Furlough-Planner/static/js/main.87245040.chunk.js",
+    "main.js.map": "/Furlough-Planner/static/js/main.87245040.chunk.js.map",
+    "runtime-main.js": "/Furlough-Planner/static/js/runtime-main.29e67090.js",
+    "runtime-main.js.map": "/Furlough-Planner/static/js/runtime-main.29e67090.js.map",
+    "static/js/2.740c46bc.chunk.js": "/Furlough-Planner/static/js/2.740c46bc.chunk.js",
+    "static/js/2.740c46bc.chunk.js.map": "/Furlough-Planner/static/js/2.740c46bc.chunk.js.map",
+    "index.html": "/Furlough-Planner/index.html",
+    "precache-manifest.7737ecbe46bbc9a16224bfcaf72a1ffe.js": "/Furlough-Planner/precache-manifest.7737ecbe46bbc9a16224bfcaf72a1ffe.js",
+    "service-worker.js": "/Furlough-Planner/service-worker.js",
+    "static/css/main.e1bc4955.chunk.css.map": "/Furlough-Planner/static/css/main.e1bc4955.chunk.css.map",
+    "static/js/2.740c46bc.chunk.js.LICENSE.txt": "/Furlough-Planner/static/js/2.740c46bc.chunk.js.LICENSE.txt",
+    "static/media/kitchen.jpg": "/Furlough-Planner/static/media/kitchen.7dda3282.jpg",
+    "static/media/living-room.jpg": "/Furlough-Planner/static/media/living-room.23a332a4.jpg",
+    "static/media/office.jpg": "/Furlough-Planner/static/media/office.94a0c038.jpg",
+    "static/media/outside.jpg": "/Furlough-Planner/static/media/outside.bba45e7a.jpg",
+    "static/media/paper.jpg": "/Furlough-Planner/static/media/paper.51b8e6d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29e67090.js",
+    "static/js/2.740c46bc.chunk.js",
+    "static/css/main.e1bc4955.chunk.css",
+    "static/js/main.87245040.chunk.js"
+  ]
+}
