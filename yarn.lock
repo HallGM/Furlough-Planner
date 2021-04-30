@@ -5897,7 +5897,7 @@
   "resolved" "https://registry.npmjs.org/is-string/-/is-string-1.0.5.tgz"
   "version" "1.0.5"
 
-is-svg@^4.2.2:
+"is-svg@^4.2.2":
   version "4.2.2"
 
 "is-symbol@^1.0.2":
